@@ -1,0 +1,10 @@
+C:\Users\Stronger\Documents\Coding\C#\Projects\Interest-Calculator\bin\Debug\Interest Calculator.exe.config
+C:\Users\Stronger\Documents\Coding\C#\Projects\Interest-Calculator\bin\Debug\Interest Calculator.exe
+C:\Users\Stronger\Documents\Coding\C#\Projects\Interest-Calculator\bin\Debug\Interest Calculator.pdb
+C:\Users\Stronger\Documents\Coding\C#\Projects\Interest-Calculator\obj\Debug\Interest-Calculator.csproj.AssemblyReference.cache
+C:\Users\Stronger\Documents\Coding\C#\Projects\Interest-Calculator\obj\Debug\InterestCalculator.FormCalculator.resources
+C:\Users\Stronger\Documents\Coding\C#\Projects\Interest-Calculator\obj\Debug\InterestCalculator.Properties.Resources.resources
+C:\Users\Stronger\Documents\Coding\C#\Projects\Interest-Calculator\obj\Debug\Interest-Calculator.csproj.GenerateResource.cache
+C:\Users\Stronger\Documents\Coding\C#\Projects\Interest-Calculator\obj\Debug\Interest-Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Stronger\Documents\Coding\C#\Projects\Interest-Calculator\obj\Debug\Interest Calculator.exe
+C:\Users\Stronger\Documents\Coding\C#\Projects\Interest-Calculator\obj\Debug\Interest Calculator.pdb
